@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="InfoAirApp.AirQuality">
+    <ContentPage.Content>
+        <StackLayout>
+            <FlexLayout AlignItems="Center" Direction="Column">
+                <Label Text="Qualidade do Ar" FontSize="50"/>
+                <Label Text="" x:Name="Index" FontSize="20"/>
+                <Label Text="" x:Name="IndexDescription"/>
+            </FlexLayout>
+
+            <Frame>
+                <StackLayout>
+                    <FlexLayout AlignItems="Center" Direction="Column">
+                        <ListView x:Name="AirPollutionList"
+                                  SeparatorColor="Gray" BackgroundColor="White" RefreshControlColor="White"
+                                  HasUnevenRows="True"
+                                  RowHeight="-1"
+                                  VerticalOptions="Fill"
+                                  WidthRequest="360">
+                            <ListView.Header>
+                                <Label Text="Componentes"/>
+                            </ListView.Header>
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <TextCell Text="{Binding Element}" Detail="{Binding QualityInfo}" TextColor="Black"/>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </FlexLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="InfoAirApp.APSPresentation">
+
+    <FlexLayout x:Name="FlexMain" AlignItems="Center" Direction="Column">
+        <Label x:Name="CompleteLocation" Text="Barra Funda"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" FontSize="25" />
+        <Label Text="Utilize o menu lateral para navegar entre as páginas."
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="CenterAndExpand" />
+        <StackLayout>
+            <FlexLayout Padding="10" JustifyContent="SpaceAround" BackgroundColor="Gray">
+                <Frame BackgroundColor="AliceBlue" Padding="5" HorizontalOptions="Center" WidthRequest="150" HeightRequest="200" FlexLayout.AlignSelf="Stretch">
+                    <StackLayout>
+                        <Label Text="Clima" HorizontalTextAlignment="Center" />
+                        <Label x:Name="CelsiusDegrees" Text="0" FontSize="35" HorizontalTextAlignment="Center"  />
+
+                        <Label x:Name="WeatherDefinition" Text="" FontSize="12" HorizontalTextAlignment="Center"  />
+                        <Label x:Name="MinTemperature" Text="" FontSize="12" HorizontalTextAlignment="Center"  />
+                        <Label x:Name="MaxTemperature" Text="" FontSize="12" HorizontalTextAlignment="Center"  />
+                        
+                    </StackLayout>
+                </Frame>
+                <Frame BackgroundColor="AliceBlue" Padding="5" HorizontalOptions="Center" WidthRequest="150" HeightRequest="200">
+                    <StackLayout>
+                        <Label Text="Qualidade do Ar" HorizontalTextAlignment="Center" />
+                        <Label x:Name="AirQualityIndexLevel" Text="0" FontSize="60" HorizontalTextAlignment="Center" />
+                        <Label x:Name="AirQualityIndexDefinition" Text="Bom" HorizontalTextAlignment="Center" />
+                    </StackLayout>
+                </Frame>
+            </FlexLayout>
+        </StackLayout>
+    </FlexLayout>
+    
+</ContentPage>

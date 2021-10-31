@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "glA8sjTxIfWuN7xNHNm1HP+fkx5UWu609zy/K5XVWG2Gr1e29EpzoBLoIwLOykXVVckUdOfzA+wXHKcvMk6P3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Logan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Logan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Logan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
