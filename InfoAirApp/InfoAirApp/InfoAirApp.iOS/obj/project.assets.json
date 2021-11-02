@@ -1175,11 +1175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp.iOS\\InfoAirApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp.iOS\\InfoAirApp.iOS.csproj",
       "projectName": "InfoAirApp.iOS",
-      "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp.iOS\\InfoAirApp.iOS.csproj",
+      "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp.iOS\\InfoAirApp.iOS.csproj",
       "packagesPath": "C:\\Users\\Logan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1200,8 +1200,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj": {
-              "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj"
+            "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj": {
+              "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj"
             }
           }
         }

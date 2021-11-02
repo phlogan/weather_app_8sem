@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Logan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

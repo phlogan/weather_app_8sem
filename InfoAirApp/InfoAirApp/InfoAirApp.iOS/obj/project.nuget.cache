@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUXMx3088LhZXD+FKXo/juYCQb3ZVYoluTUAZMjGqlnWPp9ojy3/KXsUmJ9MRsO/vRg9NJe4W9A3RAvlTjx4Ag==",
+  "dgSpecHash": "lxc7lVcuqT1drWrZdBkFdM+aGrgSYwA4QLZetfKQKrOxVax/80ms7Sr8QzDVJ19VSvTRdMIrrsjYRz+t8ZNxKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp.iOS\\InfoAirApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp.iOS\\InfoAirApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Logan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Logan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

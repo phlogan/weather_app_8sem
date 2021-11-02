@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKcYCmF+uywXsngsrhzYtb/J4pRjFrEuJA7/7OGmBF027Hx5XDJuHglOTK5s1vpWeBe8kbpxw+Sc7DICQvXgQA==",
+  "dgSpecHash": "71oQR1RFyTi5P6vOv/myYa2NLQK6ND9KsA2hR97VPp0wBuKjpwW3LKsYoBgLl8WHV1aDB/7eF6CtaaNkaT7q7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj",
+  "projectFilePath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Logan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Logan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

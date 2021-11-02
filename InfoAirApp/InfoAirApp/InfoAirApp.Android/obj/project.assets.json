@@ -2031,11 +2031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp.Android\\InfoAirApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp.Android\\InfoAirApp.Android.csproj",
       "projectName": "InfoAirApp.Android",
-      "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp.Android\\InfoAirApp.Android.csproj",
+      "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp.Android\\InfoAirApp.Android.csproj",
       "packagesPath": "C:\\Users\\Logan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2056,11 +2056,11 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj": {
-              "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\xamarin_app\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj"
+            "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj": {
+              "projectPath": "C:\\Users\\Logan\\source\\repos\\APS.8SEM\\weather_app_8sem\\InfoAirApp\\InfoAirApp\\InfoAirApp\\InfoAirApp.csproj"
             }
           }
         }

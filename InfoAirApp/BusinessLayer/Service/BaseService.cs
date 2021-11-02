@@ -4,7 +4,7 @@
     {
         public BaseService()
         {
-            Host = "http://10.0.2.2:63726/api/";
+            Host = "http://192.168.1.36/api/";
         }
 
         public string Host { get; set; }
